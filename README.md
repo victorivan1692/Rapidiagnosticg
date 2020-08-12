@@ -1,0 +1,2 @@
+# Rapidiagnosticg
+repositorio de empresa
